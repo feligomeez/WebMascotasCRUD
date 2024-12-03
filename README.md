@@ -14,7 +14,7 @@ Este proyecto es una aplicación web destinada a la gestión de mascotas, que in
 ### Frontend
 - **HTML**: Para la estructura de las vistas.
 - **CSS** (incluido Bootstrap): Para el diseño y estilo.
-- **JavaScript**: Para la interacción y las peticiones asíncronas con AJAX.
+- **JavaScript**: Incorporado para la interacción del usuario y las peticiones asíncronas con AJAX, además de proporcionar validación en tiempo real de formularios y la generación dinámica del menú de navegación (nav) en función del estado del usuario.
 
 ### Seguridad
 - **Google reCAPTCHA**: Implementado para prevenir registros automáticos.
